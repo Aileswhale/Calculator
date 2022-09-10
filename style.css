@@ -64,7 +64,7 @@ button:hover{
             display: flex;
             align-items: center;
             justify-content: center;
-            background: linear-gradient(to right, rgba(0, 0, 255, 0.7), rgba(76, 0, 130, 0.7), rgba(128, 128, 128, 0.7));
+           background: linear-gradient(to right, rgba(0, 0, 255, 0.7), rgba(76, 0, 130, 0.7), rgba(128, 128, 128, 0.7)), url('/img/bgd.jpg')center/cover no-repeat;
         }
     
         .calculator {
